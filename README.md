@@ -4,6 +4,8 @@
 
 #### By _**Mook Dang, Joseph Pearce**_
 
+#### By _Mook Dang, Joseph Pearce_
+
 ## Description
 
 _Favorite Things Project_
